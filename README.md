@@ -1,5 +1,34 @@
 This project represents a comprehensive and automated end-to-end machine learning solution designed to predict outcomes based on extensive data analysis. Utilizing a robust stack of Python libraries and modern development practices, it highlights a sophisticated approach to machine learning, from data preprocessing to model deployment and automation.
 
+
+
+
+
+
+
+![model working](https://github.com/harshgurawaliya1/machinelearningproject/assets/106898396/13a70656-fbb0-4104-9e98-c35ca6f20904)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Highlights of the Project:
 Extensive Data Analysis: Leveraging Python libraries such as NumPy for numerical operations, Pandas for data manipulation, and visualization tools like Matplotlib and Seaborn, the project undertakes a deep dive into the data, extracting meaningful insights and preparing the dataset for modeling.
 
